@@ -7,3 +7,4 @@ For the third progress meeting:
   The bimodal embedding notebook is for the training of bimodal embeddings
   The other two .py files are tutorials we implemented while learning about reinforcement learning. 
   However, they are not our code for the project
+  Dataset and instruction are used in the bimodal embedding notebook
