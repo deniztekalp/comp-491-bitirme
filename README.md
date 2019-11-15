@@ -1,10 +1,5 @@
 # comp-491-bitirme
 Natural Language Guided Deep Reinforcement Learning
 
+Not all the datasets and pretrained models fit onto the repo due to size
 
-For the third progress meeting:
-  The pong notebook is for the Deep Q-Learning implementation so far
-  The bimodal embedding notebook is for the training of bimodal embeddings
-  The other two .py files are tutorials we implemented while learning about reinforcement learning. 
-  However, they are not our code for the project
-  Dataset and instruction are used in the bimodal embedding notebook
